@@ -1,0 +1,42 @@
+{
+  "keywordFileContentHash": "37BAA81B0A7284A915CF9D9880FD44AB",
+  "keywordClasses": [
+    {
+      "name": "reusable.readExcel",
+      "keywordMethods": [
+        {
+          "name": "excelFile",
+          "parameters": [
+            {
+              "name": "filePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "dataSheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
